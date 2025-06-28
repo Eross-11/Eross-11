@@ -50,3 +50,7 @@ Welcome to my GitHub profile!
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Thanks for visiting my profile! ⭐️
+## 📚 Latest GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
